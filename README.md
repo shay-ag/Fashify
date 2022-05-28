@@ -57,6 +57,11 @@ This can be well understood as a Reverse Image Search technique that is used at 
      ```
   
      **NOTE: However, when the project directory is opened through Anaconda, installation will be done beforehand and not required to run any command. Apparently, list      of all required libraries are attached in the requirements.txt file.**
+ 
+ 4. **Download and import the Fashion Product Images Dataset folder from [here](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)**
+  
+     * Image dataset containes the image(.jpg) files we have used in our project. Hence, it is required to download the folder.
+     * Once, these files are downloaded in your system, place these .pkl files in Fashify Directory.
   
  4. **Download and import pickle(.pkl) files** 
       
