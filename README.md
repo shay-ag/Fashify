@@ -73,6 +73,8 @@ This can be well understood as a Reverse Image Search technique that is used at 
   
  <img src="assets/setup-run.png" alt="running-app" width="1400" >
   
+ 6. **You ay now headover to the localhost or Network URL to view the Fashify Project.**
+  
 ***
 
 ## System Architecture Design
