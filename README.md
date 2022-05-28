@@ -123,3 +123,5 @@ For now, I have used a dataset of almost 45k images, however, if any dataset wou
 
 I will be deploying this website on AWS, as the dataset is around 20GB which needs to be kept on the server. Hence, I will use an S3 bucket to store such a large dataset and then host it on Amazon Web Services. This will change our code as now images will be displayed from the S3 bucket rather than one of the directories.
 ***
+
+### Developed with ♥ & ☕ by [Shashwat Agrawal](https://github.com/shay-ag)
