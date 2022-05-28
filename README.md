@@ -61,7 +61,7 @@ This can be well understood as a Reverse Image Search technique that is used at 
  4. **Download and import the Fashion Product Images Dataset folder from [here](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)**
   
      * Image dataset containes the image(.jpg) files we have used in our project. Hence, it is required to download the folder.
-     * Once, these files are downloaded in your system, place these .pkl files in Fashify Directory.
+     * Once, these files are downloaded in your system, place this images folder in Fashify Directory.
   
  5. **Download and import pickle(.pkl) files** 
       
