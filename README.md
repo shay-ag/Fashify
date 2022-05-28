@@ -35,6 +35,8 @@ This can be well understood as a Reverse Image Search technique that is used at 
 * __Frontend:__ Streamlit, Python
 * __Backend & Libraries:__ Python, Tensorflow, OpenCV, Pickle, Pillow, Sklearn, Streamlit, Numpy, Pandas
 * __Tools:__ Git, GitHub
+* __Algorithm:__ Nearest Neighbor, Brute, Euclidean 
+  
 
 ***
 
