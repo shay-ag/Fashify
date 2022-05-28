@@ -10,21 +10,21 @@ This can be well understood as a Reverse Image Search technique that is used at 
 **Note: There is a sample folder attached which consists of sample images, which can be used for testing our developed web application.**
 ***
 
-## Demo of the Project 
+## Demo of the Project: 
 
 <img src="assets/image03.png" width="1500" >
 <img src="assets/image01.png" width="1500" >
 <img src="assets/image02.png" width="1500" >
 ***
 
-## Tech Stacks and Concepts Used 
+## Tech Stacks and Concepts Used: 
 ***
 
-## Setting Up the Project 🔧
+## Setting Up the Project: 🔧
 
 ***
 
-## Working:
+## Working of the Project:
 
 * **Step 1. Importing the model.**
 
@@ -53,12 +53,12 @@ Fashify will recommend products by approaching the closest vectors that have sim
 Hence, we will be able to recommend the most visually similar products to users. This is the working of Fashify.
 ***
 
-## My Learnings:
+## My Learnings from the Project:
 
 For the development of this project, I used the knowledge of Deep Learning along with Machine Learning. Apparently, within Deep Learning, I have gone through the CNN (Convolutional Neural Network). I have also learned about the Transfer Learning technique, where we can use an already trained model for predictions. The trained model I have used for Fashify is ResNet, which is trained on a dataset imageNET. 
 ***
 
-## Future Scope
+## Future Scope:
 
 In the future, I will be working to optimize the approach I have used in order to scale my project.
 For now, I have used a dataset of almost 45k images, however, if any dataset would contain images in millions then Fashify will take a relatively long duration to obtain and show results, and ultimately user experience will be downgraded. Thus, to optimize this solution instead of using the scikit-learn library we will be using Annoy library from Spotify. 
