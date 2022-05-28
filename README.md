@@ -49,14 +49,15 @@ This can be well understood as a Reverse Image Search technique that is used at 
      ```sh
      git clone https://github.com/shay-ag/Fashify.git
      ```
- 2. Install required Python Libraries & Modules
+ 2. Go into the Project Directory & Install required Python Libraries & Modules  
     
-  **NOTE: However, when the project directory is opened through Anaconda, installation will be done beforhand and not required to run any command. Apparently, list of all required libraries are attached in the requirements.txt file.**  
-    
-    ```sh
+     ```sh
      cd .\Fashify\
      pip install -r requirement.txt
      ```
+  
+     **NOTE: However, when the project directory is opened through Anaconda, installation will be done beforhand and not required to run any command. Apparently, list      of all required libraries are attached in the requirements.txt file.**
+  
  3. 
 
 ***
