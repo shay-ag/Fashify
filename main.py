@@ -3,10 +3,10 @@
 # STEP 3: Aim is to Create a Client-Side Web Application
 # We are intended to use Streamlit library, which is a Python Frontend Framework to develop web applications.
 # In this main.py we will be following these steps to be done:
-# 1. file upload -> save
-# 2. load file -> feature extract
-# 3. Find the Recommendations
-# 4. Show the Recommendations
+# 1. file upload -> save the file
+# 2. load the file -> feature extraction from that image file
+# 3. Find the Recommendations for that image file
+# 4. Show the Recommendations on the client-side
 
 # ----------------------------
 # importing the required libraries and modules
@@ -32,7 +32,7 @@ from sklearn import neighbors
 from sklearn.neighbors import NearestNeighbors
 
 
-# Giving a suitable title to our Algorithms Project
+# Giving a suitable title to our Track 3: Algorithms Project
 st.title('Fashify: Recommend Fashion In Style')
 
 # ----------------------------
