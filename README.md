@@ -18,6 +18,23 @@ This can be well understood as a Reverse Image Search technique that is used at 
 ***
 
 ## Tech Stacks and Concepts Used: 
+
+<p align="left"> 
+  <a href="" target="_blank"> <img src="assets/python.png" alt="python" height="60"/> </a>
+  <a href="" target="_blank"> <img src="assets/tensorflow.png" alt="tensorflow" height="60"/> </a>
+    <a href="" target="_blank"> <img src="assets/opencv.png" alt="opencv" height="60"/> </a>
+    <a href="" target="_blank"> <img src="assets/pickle.png" alt="pickle" height="60"/> </a>
+      <a href="" target="_blank"> <img src="assets/pillow.png" alt="pillow" height="60"/> </a>
+      <a href="" target="_blank"> <img src="assets/sklearn.png" alt="sklearn" height="60"/> </a>
+      <a href="" target="_blank"> <img src="assets/streamlit.png" alt="streamlit" height="60"/> </a>
+      <a href="" target="_blank"> <img src="assets/numpy.png" alt="numpy" height="60"/> </a>
+  <a href="" target="_blank"> <img src="assets/pandas.png" alt="pandas" height="60"/> </a>
+<br>
+  
+* __Frontend:__ Streamlit, Python
+* __Backend & Libraries:__ Python, Tensorflow, OpenCV, Pickle, Pillow, Sklearn, Streamlit, Numpy, Pandas
+* __Tools:__ Git, GitHub
+
 ***
 
 ## Setting Up the Project: 🔧
