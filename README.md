@@ -5,13 +5,12 @@
 ### What Does Fashify Do?
 Fashify is an end-to-end web application based on Machine Learning Algorithms. Fashify is a solution to fashion recommendation, where a user can upload fashion-related images of his/her interest. Once a user uploads an image, Fashify will respond by recommending products that are visually similar enough to the image uploaded by the user.  
 
-This can be well understood as a Reverse Image Search technique that is used at a large scale by giants like Google, Pinterest, etc
+This can be well understood as a Reverse Image Search technique that is used at a large scale by giants like Google, Pinterest, etc. For this project, the dataset for the fashion products section belonging to men and women is taken from Kaggle. The image database contains almost 45k (.jpg) files ranging in different categories including T-shirts, jeans, shoes, backpacks, watches, and various other clothing accessories.
+
+**Note: There is a sample folder attached which consists of sample images, which can be used for testing our developed web application.**
 
 ### Demo  
 
-For this project, the dataset for the fashion products section belonging to men and women is taken from Kaggle. The image database contains almost 45k (.jpg) files ranging in different categories including T-shirts, jeans, shoes, backpacks, watches, and various other clothing accessories.
-
-**Note**: There is a sample folder attached which consists of sample images, which can be used for testing our developed web application.
 
 ### Working:
 
