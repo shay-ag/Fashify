@@ -42,24 +42,37 @@ This can be well understood as a Reverse Image Search technique that is used at 
 
 ## Setting Up the Project: 🔧
   
- 1. Setup Tensorflow and Keras in Anaconda (Python 3.7 or Python 3.8), refer [Link](https://youtu.be/O8yye2AHCOk)  
+ 1. **Setup Tensorflow and Keras in Anaconda (Python 3.7 or Python 3.8), refer [Link](https://youtu.be/O8yye2AHCOk)**  
   
- 2. Clone the repo
+ 2. **Clone the repo**
   
      ```sh
      git clone https://github.com/shay-ag/Fashify.git
      ```
- 2. Go into the Project Directory & Install required Python Libraries & Modules  
+ 3. **Go into the Project Directory & Install required Python Libraries & Modules**  
     
      ```sh
      cd .\Fashify\
      pip install -r requirement.txt
      ```
   
-     **NOTE: However, when the project directory is opened through Anaconda, installation will be done beforhand and not required to run any command. Apparently, list      of all required libraries are attached in the requirements.txt file.**
+     **NOTE: However, when the project directory is opened through Anaconda, installation will be done beforehand and not required to run any command. Apparently, list      of all required libraries are attached in the requirements.txt file.**
   
- 3. 
-
+ 4. **Download and import pickle(.pkl) files** 
+      
+     * .pkl files containes the extracted features of the Image Dataset we have used in our project in binary form. Hence, it is required to download the pickle files        from here, [Link](https://drive.google.com/drive/folders/1m8ddoLHv4dbJCxS0t_6WEPM_8YiPBQHu?usp=sharing).
+     * Once, these files are downloaded in your system, place these .pkl files in Fashify Directory.
+  
+ 5. **Run the Streamlit Web Application**
+ 
+    ```sh
+    cd .\Fashify\
+    streamlit run main.py
+    ```
+    Once all the installation and set up is done, you may type the above command in your terminal to run the Streamlit Fashify web Application as shown in the image       below.
+  
+ <img src="assets/setup-run.png" alt="running-app" width="1400" >
+  
 ***
 
 ## Working of the Project:
