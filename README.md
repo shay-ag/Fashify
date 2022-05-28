@@ -63,12 +63,12 @@ This can be well understood as a Reverse Image Search technique that is used at 
      * Image dataset containes the image(.jpg) files we have used in our project. Hence, it is required to download the folder.
      * Once, these files are downloaded in your system, place these .pkl files in Fashify Directory.
   
- 4. **Download and import pickle(.pkl) files** 
+ 5. **Download and import pickle(.pkl) files** 
       
      * .pkl files containes the extracted features of the Image Dataset we have used in our project in binary form. Hence, it is required to download the pickle files        from here, [Link](https://drive.google.com/drive/folders/1m8ddoLHv4dbJCxS0t_6WEPM_8YiPBQHu?usp=sharing).
      * Once, these files are downloaded in your system, place these .pkl files in Fashify Directory.
   
- 5. **Run the Streamlit Web Application**
+ 6. **Run the Streamlit Web Application**
  
     ```sh
     cd .\Fashify\
@@ -78,7 +78,7 @@ This can be well understood as a Reverse Image Search technique that is used at 
   
  <img src="assets/setup-run.png" alt="running-app" width="1400" >
   
- 6. **You may now headover to the localhost or Network URL to view the Fashify Project. Make sure that you have followed the above steps to avoide unnecessary errors.**
+ 7. **You may now headover to the localhost or Network URL to view the Fashify Project. Make sure that you have followed the above steps to avoide unnecessary errors.**
   
 ***
 
