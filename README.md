@@ -75,6 +75,11 @@ This can be well understood as a Reverse Image Search technique that is used at 
   
 ***
 
+## System Architecture Design
+
+<img src="assets/fashify_system_architecture_design.png" alt="fashify-system-architecture-design" width="1600">
+  
+***  
 ## Working of the Project:
 
 * **Step 1. Importing the model.**
