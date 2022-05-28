@@ -41,6 +41,23 @@ This can be well understood as a Reverse Image Search technique that is used at 
 ***
 
 ## Setting Up the Project: 🔧
+  
+ 1. Setup Tensorflow and Keras in Anaconda (Python 3.7 or Python 3.8), refer [Link](https://youtu.be/O8yye2AHCOk)  
+  
+ 2. Clone the repo
+  
+     ```sh
+     git clone https://github.com/shay-ag/Fashify.git
+     ```
+ 2. Install required Python Libraries & Modules
+    
+  **NOTE: However, when the project directory is opened through Anaconda, installation will be done beforhand and not required to run any command. Apparently, list of all required libraries are attached in the requirements.txt file.**  
+    
+    ```sh
+     cd .\Fashify\
+     pip install -r requirement.txt
+     ```
+ 3. 
 
 ***
 
